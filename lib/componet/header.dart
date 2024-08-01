@@ -119,7 +119,7 @@ class Header extends StatelessWidget {
                 wSpace(),
                 wSpace(mWidth: 10),
                 Text(
-                  "T.B.P. Public School",
+                  "Job Provider <Name>",
                   style: textStyleFonts18(context, colors: AppColors.wigthColor),
                   maxLines: 1,
                 )

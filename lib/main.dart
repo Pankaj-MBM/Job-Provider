@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Job Provider test',
+      title: 'Job Provider',
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: AppColors.bgColor,
         textTheme: GoogleFonts.poppinsTextTheme(Theme.of(context).textTheme)
